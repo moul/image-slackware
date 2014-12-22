@@ -1,5 +1,5 @@
 Official Slackware image on Online Labs
-====================================
+=======================================
 
 **Warning: this is image is not yet working**
 
@@ -14,7 +14,7 @@ Related projects
 - https://github.com/online-labs/image-builder (Old repository with full history)
 - https://github.com/online-labs/ocs-scripts (Common scripts for distributions)
 
-Links
+links
 -----
 
 - [Community: Add Slackware ARM image](https://community.cloud.online.net/t/add-slackware-arm-image/355?u=manfred)
