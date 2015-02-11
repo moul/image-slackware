@@ -1,4 +1,4 @@
-Official Slackware image on Online Labs
+Official Slackware image on Online Labs [![Build Status](https://travis-ci.org/online-labs/image-slackware.svg?branch=master)](https://travis-ci.org/online-labs/image-slackware)
 =======================================
 
 **Warning: this is image is not yet working**
