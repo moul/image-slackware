@@ -38,4 +38,4 @@ links
 
 ---
 
-A project by [![Online Labs](https://raw.githubusercontent.com/online-labs/doc.cloud.online.net/master/www/documentation/docs_public/contents/images/logo_footer.png)](http://labs.online.net/)
+A project by [![Online Labs](https://raw.githubusercontent.com/online-labs/doc.cloud.online.net/master/www/documentation/docs_public/contents/images/logo_footer.png)](http://labs.online.net/) [![GuardRails badge](https://badges.production.guardrails.io/moul/image-slackware.svg)](https://www.guardrails.io)
